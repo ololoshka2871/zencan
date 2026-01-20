@@ -4,6 +4,8 @@ Human-friendly documentation of releases and what's changed in them for the zenc
 
 ## Unreleased
 
+## v0.0.3 - 2026-01-20
+
 ### Added
 
 - Support for TimeOfDay, TimeDifference, f64, u64, i64 object data types (#42).
